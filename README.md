@@ -1,3 +1,3 @@
 Solobuy
 =======
-This is the UI for Solobuy, built with the Ionic Framework.
+This is the IOS UI for Solobuy, built with the Ionic Framework.
